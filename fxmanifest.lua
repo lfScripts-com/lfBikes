@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
+author 'LFScripts, xLaugh, Firgyy'
 lua54 'yes'
 
 dependencies {
