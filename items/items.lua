@@ -5,7 +5,7 @@
     close = true,
     description = nil,
     client = {
-        export = 'laughbikes.useItem'
+        export = 'lfBikes.useItem'
     }
 },
 
@@ -16,7 +16,7 @@
     close = true,
     description = nil,
     client = {
-        export = 'laughbikes.useItem'
+        export = 'lfBikes.useItem'
     }
 },
 
@@ -27,7 +27,7 @@
     close = true,
     description = nil,
     client = {
-        export = 'laughbikes.useItem'
+        export = 'lfBikes.useItem'
     }
 },
 
@@ -38,7 +38,7 @@
     close = true,
     description = nil,
     client = {
-        export = 'laughbikes.useItem'
+        export = 'lfBikes.useItem'
     }
 },
 
@@ -49,7 +49,7 @@
     close = true,
     description = nil,
     client = {
-        export = 'laughbikes.useItem'
+        export = 'lfBikes.useItem'
     }
 },
 
@@ -60,6 +60,6 @@
     close = true,
     description = nil,
     client = {
-        export = 'laughbikes.useItem'
+        export = 'lfBikes.useItem'
     }
 },
